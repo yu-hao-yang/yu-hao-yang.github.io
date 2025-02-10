@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Statistics, currently advised by [Prof. Hanzhong Liu](
 
 Education
 ======
-* B.S. in Mathematics and Physics (Minor in Statistics), Tsinghua University, 2022
+* B.S. in Mathematics and Physics, Minor in Statistics, Tsinghua University, 2022
 
 Technical Reports
 ======

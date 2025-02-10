@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/

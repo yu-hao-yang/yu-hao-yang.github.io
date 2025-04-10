@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mathematics and Physics, Minor in Statistics, Tsinghua University, 2022
 
-Technical Reports
+Working Papers
 ======
 * [1] **Yu, H.**, Zhu, K., and Liu, H. (2025+). [Sharp variance estimator and causal bootstrap in stratified randomized experiments](https://arxiv.org/abs/2401.16667). Submitted. [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
 * [2] **Yu, H.**, Ma, W., and Liu, H. (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted.

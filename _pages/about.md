@@ -38,7 +38,7 @@ Teaching
 
 Contact
 ======
-yhy22 [at] mails [dot] tsinghua [dot] edu [dot] cn
+yhy22 [at] mails [dot] tsinghua [dot] edu [dot] cn, or
 yu-haoyang [at] outlook [dot] com
 
 ----

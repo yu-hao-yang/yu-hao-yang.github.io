@@ -19,4 +19,4 @@ Working Papers
 * [2] **Yu, H.**, Ma, W., and Liu, H. (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted.
 
 ----
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vuFAFJLWhTdJOIf_V0wHWlT0iceXR4ZidCXqBX2pSB8&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=vuFAFJLWhTdJOIf_V0wHWlT0iceXR4ZidCXqBX2pSB8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

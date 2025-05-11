@@ -8,8 +8,8 @@ main:
   - title: "Reaseach"
     url: /research/
 
-  - title: "Student Affairs"
-    url: /student_affair/
+#  - title: "Student Affairs"
+#    url: /student_affair/
 
 #  - title: "Talks"
 #    url: /talks/    

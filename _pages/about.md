@@ -22,7 +22,7 @@ Publications
 
 Working Papers
 ======
-* [2] **Yu, H.**, Ma, W., and Liu, H. (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted. [[Poster]](https://drive.google.com/file/d/1YW4vYza1JabFqeqRMdt1xZcaPgIT-rT2/view?usp=share_link)
+* [2] **Yu, H.**, Ma, W., and Liu, H. (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted. [[Poster]](https://drive.google.com/file/d/1e2yqUbEIUfzRP7bI2ySDtRD4royAaZvh/view?usp=share_link)
 
 Awards
 ======

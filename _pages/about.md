@@ -38,6 +38,7 @@ Teaching
 * **2022 Fall**: Statistical Inference, *Teaching Assistant*, Tsinghua University
 * **2023 Spring and 2024 Spring**: Introduction to Bayesian Statistics, *Teaching Assistant*, Tsinghua University
 * **2023 Fall and 2024 Fall**: Introduction to Causal Inference, *Teaching Assistant*, Tsinghua University
+* **2024 Spring**: Probability Theory II, *Teaching Assistant*, Tsinghua University
 
 Contact
 ======

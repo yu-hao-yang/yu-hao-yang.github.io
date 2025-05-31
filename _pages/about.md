@@ -45,5 +45,3 @@ Contact
 yhy22 [at] mails [dot] tsinghua [dot] edu [dot] cn, or
 yu-haoyang [at] outlook [dot] com
 
-----
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=vuFAFJLWhTdJOIf_V0wHWlT0iceXR4ZidCXqBX2pSB8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

@@ -18,11 +18,11 @@ Education
 
 Publications
 ======
-* [1] **Yu, H.**, Zhu, K., and Liu, H. (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments](https://onlinelibrary.wiley.com/doi/10.1002/sim.70139). *Statistics in Medicine*, 44: e70139. [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139?domain=author&token=BUFGBT3URH3BSCBGWQAE) [[arXiv]](https://arxiv.org/abs/2401.16667) [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
+* [1] **Yu, H.**, Zhu, K.\*, and Liu, H. (2025). [Sharp variance estimator and causal bootstrap in stratified randomized experiments](https://onlinelibrary.wiley.com/doi/10.1002/sim.70139). *Statistics in Medicine*, 44: e70139. [[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139?domain=author&token=BUFGBT3URH3BSCBGWQAE) [[arXiv]](https://arxiv.org/abs/2401.16667) [[Package]](https://github.com/yu-hao-yang/CausalBootstrap)
 
 Working Papers
 ======
-* [2] **Yu, H.**, Ma, W., and Liu, H. (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted. [[Poster]](https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link)
+* [2] **Yu, H.**, Ma, W., and Liu, H.\* (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted. [[Poster]](https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link)
 
 Awards
 ======

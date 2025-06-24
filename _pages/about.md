@@ -27,7 +27,7 @@ Working Papers
 Awards
 ======
 * **December 2023**: Comprehensive Scholarship of Tsinghua University
-* **June 2022**: Outstanding Graduates of Tsinghua University
+* **June 2022**: Outstanding Graduate of Tsinghua University
 * **December 2021**: Chinese National Scholarship
 * **December 2020**: Comprehensive Scholarship of Tsinghua University
 * **December 2019**: Comprehensive Scholarship of Tsinghua University

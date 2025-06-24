@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-I am a Ph.D. candidate in Statistics, currently advised by [Prof. Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm) in the Department of Statistics and Data Science at Tsinghua University. My research interests include causal inference in complex experimental designs as well as optimal experimental design theory.
+I am a Ph.D. candidate in Statistics, fortunate to be advised by [Prof. Hanzhong Liu](https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm) in the Department of Statistics and Data Science at Tsinghua University. My research interests include causal inference in complex experimental designs as well as optimal experimental design theory.
 
 Education
 ======

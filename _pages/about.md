@@ -26,16 +26,12 @@ Working Papers
 
 Awards
 ======
-* **December 2025**: Comprehensive Scholarship of Tsinghua University
-* **December 2025**: 12·9 Counselor Scholarship of Tsinghua University
-* **January 2025**: Paper Award of Academic Symposium of the Beijing Biometrics Association
-* **December 2023**: Comprehensive Scholarship of Tsinghua University
-* **June 2022**: Outstanding Graduate of Tsinghua University
-* **December 2021**: Chinese National Scholarship
-* **December 2021**: Comprehensive Scholarship of Tsinghua University
-* **December 2020**: Comprehensive Scholarship of Tsinghua University
-* **December 2019**: Comprehensive Scholarship of Tsinghua University
-* **December 2019**: Outstanding Student Cadre of Tsinghua University
+* Comprehensive Scholarship of Tsinghua University (2025, 2023, 2021, 2020, 2019)
+* 12·9 Counselor Scholarship of Tsinghua University (2025)
+* Paper Award of Academic Symposium of the Beijing Biometrics Association (2025)
+* Outstanding Graduate of Tsinghua University (2022)
+* Chinese National Scholarship (2021)
+* Outstanding Student Cadre of Tsinghua University (2019)
 
 Teaching
 ======

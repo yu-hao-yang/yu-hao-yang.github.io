@@ -28,7 +28,7 @@ Awards
 ======
 * Comprehensive Scholarship of Tsinghua University (2025, 2023, 2021, 2020, 2019)
 * 12·9 Counselor Scholarship of Tsinghua University (2025)
-* Paper Award of Academic Symposium of the Beijing Biometrics Association (2025)
+* Paper Award at the Academic Symposium of the Beijing Biometrics Association (2025)
 * Outstanding Graduate of Tsinghua University (2022)
 * Chinese National Scholarship (2021)
 * Outstanding Student Cadre of Tsinghua University (2019)

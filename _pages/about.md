@@ -26,6 +26,7 @@ Working Papers
 
 Awards
 ======
+* Excellent Teaching Assistant of Tsinghua University (2025)
 * Paper Award at the National Academic Forum for Doctoral Students in Statistics (2025)
 * Comprehensive Scholarship of Tsinghua University (2025, 2023, 2021, 2020, 2019)
 * 12·9 Counselor Scholarship of Tsinghua University (2025)

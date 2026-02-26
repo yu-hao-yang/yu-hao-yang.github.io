@@ -24,7 +24,7 @@ Publications
 Working Papers
 ======
 * [2] **Haoyang Yu**, Wei Ma, and Hanzhong Liu\* (2025+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted. [[Poster]](https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link)
-* [3] Xin Lu, Wanjia Fu, Hongzi Li, **Haoyang Yu**, Honghao Zhang, Ke Zhu\* and Hanzhong Liu (2025+). [Design-based Theory for Causal Inference (in Chinese)](https://arxiv.org/abs/2511.22518). Submitted.
+* [3] Xin Lu, Wanjia Fu, Hongzi Li, **Haoyang Yu**, Honghao Zhang, Ke Zhu\*, and Hanzhong Liu (2025+). [Design-based Theory for Causal Inference (in Chinese)](https://arxiv.org/abs/2511.22518). Submitted.
 
 Awards
 ======
@@ -39,10 +39,13 @@ Awards
 
 Teaching
 ======
-* **Introduction to Causal Inference**, *Teaching Assistant*, Tsinghua University (2024 Fall and 2023 Fall)
-* **Introduction to Bayesian Statistics**, *Teaching Assistant*, Tsinghua University (2024 Spring and 2023 Spring)
-* **Probability Theory II**, *Teaching Assistant*, Tsinghua University (2024 Spring)
-* **Statistical Inference**, *Teaching Assistant*, Tsinghua University (2022 Fall)
+* **Selected Topics on Advanced Statistics**, *Teaching Assistant*, Tsinghua University (Spring 2026)
+  - Topic: Bayesian Theory, Methods, and Computation
+* **Introduction to Causal Inference**, *Teaching Assistant*, Tsinghua University (Fall 2024 and Fall 2023)
+  - Outstanding Teaching Assistant Award (2025)
+* **Introduction to Bayesian Statistics**, *Teaching Assistant*, Tsinghua University (Spring 2024 and Spring 2023)
+* **Probability Theory II**, *Teaching Assistant*, Tsinghua University (Spring 2024)
+* **Statistical Inference**, *Teaching Assistant*, Tsinghua University (Fall 2022)
 
 Contact
 ======

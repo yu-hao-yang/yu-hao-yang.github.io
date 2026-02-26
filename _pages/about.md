@@ -14,7 +14,8 @@ I am a Ph.D. candidate in Statistics, fortunate to be advised by [Prof. Hanzhong
 
 Education
 ======
-* B.S. in Mathematics and Physics, Minor in Statistics, Tsinghua University, 2022
+* Ph.D. in Stastistics, Tsinghua University, 2022-present
+* B.S. in Mathematics and Physics, Minor in Statistics, Tsinghua University, 2018-2022
 
 Publications
 ======

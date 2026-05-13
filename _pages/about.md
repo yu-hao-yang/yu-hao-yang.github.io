@@ -39,13 +39,17 @@ Awards
 
 Teaching
 ======
-* **Selected Topics on Advanced Statistics**, *Teaching Assistant*, Tsinghua University (Spring 2026)
-  - Topic: Bayesian Theory, Methods, and Computation
-* **Introduction to Causal Inference**, *Teaching Assistant*, Tsinghua University (Fall 2024 and Fall 2023)
+**Teaching Assistant for Undergraduate Courses**
+* Statistical Inference, Tsinghua University, Fall 2022
+* Introduction to Bayesian Statistics, Tsinghua University, Spring 2023 \& Spring 2024
+* Introduction to Causal Inference, Tsinghua University, Fall 2023 \& Fall 2024
   - Awarded Outstanding Teaching Assistant (2025)
-* **Introduction to Bayesian Statistics**, *Teaching Assistant*, Tsinghua University (Spring 2024 and Spring 2023)
-* **Probability Theory II**, *Teaching Assistant*, Tsinghua University (Spring 2024)
-* **Statistical Inference**, *Teaching Assistant*, Tsinghua University (Fall 2022)
+* Introduction to Introduction to Biostatistics and Bioinformatics, Tsinghua University, Spring 2026
+
+**Teaching Assistant for Graduate Courses**
+* Advanced Probability Theory II, Tsinghua University, Spring 2024
+* Selected Topics on Advanced Statistics, Tsinghua University, Spring 2026 
+  - Topic: Bayesian Theory, Methods, and Computation
 
 Contact
 ======

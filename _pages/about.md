@@ -41,8 +41,8 @@ Teaching
 ======
 **Teaching Assistant for Undergraduate Courses**
 * Statistical Inference, Tsinghua University, Fall 2022
-* Introduction to Bayesian Statistics, Tsinghua University, Spring 2023 \& Spring 2024
-* Introduction to Causal Inference, Tsinghua University, Fall 2023 \& Fall 2024
+* Introduction to Bayesian Statistics, Tsinghua University, Spring 2023 & Spring 2024
+* Introduction to Causal Inference, Tsinghua University, Fall 2023 & Fall 2024
   - Awarded Outstanding Teaching Assistant (2025)
 * Introduction to Introduction to Biostatistics and Bioinformatics, Tsinghua University, Spring 2026
 

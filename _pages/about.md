@@ -24,7 +24,7 @@ Publications
 Working Papers
 ======
 * [2] **Haoyang Yu**, Wei Ma, and Hanzhong Liu\* (2026+). [Minimax optimal design with spillover and carryover effects](https://arxiv.org/abs/2501.14602). Submitted. [[Poster]](https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link) [[Code]](https://github.com/yu-hao-yang/minimax)
-* [3] **Haoyang Yu**, Yilin Li, Lu Deng, Yong Wang, Xin Lu\*, and Hanzhong Liu\* (2026+). [Design-based edge-level causal inference with machine learning assisted covariate adjustment](https://arxiv.org/pdf/2606.00965). Submitted.
+* [3] **Haoyang Yu**, Yilin Li, Lu Deng, Yong Wang, Xin Lu\*, and Hanzhong Liu\* (2026+). [Design-based edge-level causal inference with machine learning assisted covariate adjustment](https://arxiv.org/abs/2606.00965). Submitted.
 * [4] Xin Lu, Wanjia Fu, Hongzi Li, **Haoyang Yu**, Honghao Zhang, Ke Zhu\*, and Hanzhong Liu (2026+). [Design-based Theory for Causal Inference (in Chinese)](https://arxiv.org/abs/2511.22518). Submitted.
 
 Awards

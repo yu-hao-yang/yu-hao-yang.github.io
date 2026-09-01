@@ -1,10 +1,16 @@
 # Haoyang Yu
 
-Personal homepage built with [Jekyll](https://jekyllrb.com/) and the Academic Pages theme.
+Personal academic homepage built with [Jekyll](https://jekyllrb.com/).
+
+The site contains:
+
+- Home
+- Research
+- Photography
 
 ## Local preview
 
-Install Ruby, Bundler, and Node.js, then run:
+Install Ruby and Bundler, then run:
 
 ```bash
 bundle install

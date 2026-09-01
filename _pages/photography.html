@@ -29,15 +29,22 @@ excerpt: "A personal collection of photographs by Haoyang Yu."
 
   <section class="photo-grid" aria-label="Photography collection">
     {% for photo in sorted_photos %}
-      <figure class="photo-card" data-category="{{ photo.category | slugify }}">
+      {% if photo.height > photo.width %}
+        {% assign photo_orientation = "portrait" %}
+      {% else %}
+        {% assign photo_orientation = "landscape" %}
+      {% endif %}
+      <figure class="photo-card photo-card--{{ photo_orientation }}" data-category="{{ photo.category | slugify }}">
         <button class="photo-open" type="button"
           data-image="{{ base_path }}{{ photo.image }}"
           data-title="{{ photo.location | escape }}"
           data-meta="{{ photo.date | escape }}"
           aria-label="View photograph from {{ photo.location | escape }}, {{ photo.date | escape }} full screen">
-          <span class="photo-image-wrap">
+          <span class="photo-image-wrap" style="aspect-ratio: {{ photo.width }} / {{ photo.height }}">
             <img src="{{ base_path }}{{ photo.image }}"
               alt="{{ photo.alt | escape }}"
+              width="{{ photo.width }}"
+              height="{{ photo.height }}"
               style="object-position: {{ photo.position | default: 'center' }}"
               loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
           </span>

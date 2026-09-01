@@ -17,15 +17,6 @@
   margin-bottom: 3.5rem;
 }
 
-.photo-kicker {
-  margin: 0 0 1rem;
-  color: var(--photo-accent);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-}
-
 .photo-hero h1 {
   margin: 0;
   color: var(--photo-ink);
@@ -77,6 +68,7 @@
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   gap: clamp(1rem, 2.4vw, 2rem);
+  align-items: start;
 }
 
 .photo-card {
@@ -84,12 +76,8 @@
   margin: 0;
 }
 
-.photo-card:nth-child(3n + 2) {
+.photo-card--portrait {
   grid-column: span 4;
-}
-
-.photo-card:nth-child(3n) {
-  grid-column: 3 / span 8;
 }
 
 .photo-card[hidden] {
@@ -111,12 +99,7 @@
   position: relative;
   display: block;
   overflow: hidden;
-  aspect-ratio: 4 / 3;
   background: var(--photo-paper);
-}
-
-.photo-card:nth-child(3n + 2) .photo-image-wrap {
-  aspect-ratio: 3 / 4;
 }
 
 .photo-image-wrap::after {
@@ -161,23 +144,6 @@
 .photo-title {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1rem;
-}
-
-.photo-meta {
-  color: var(--photo-muted);
-  font-size: 0.68rem;
-  letter-spacing: 0.04em;
-  text-align: right;
-}
-
-.photo-note {
-  margin: 5rem 0 0;
-  padding-top: 1.2rem;
-  color: var(--photo-muted);
-  border-top: 1px solid #dbe6f2;
-  font-family: Georgia, "Times New Roman", serif;
-  font-size: 0.82rem;
-  font-style: italic;
 }
 
 .photo-lightbox {
@@ -261,18 +227,10 @@
     margin-bottom: 2rem;
   }
 
-  .photo-card:nth-child(n) .photo-image-wrap {
-    aspect-ratio: 4 / 3;
-  }
-
   .photo-card figcaption {
     align-items: flex-start;
     flex-direction: column;
     gap: 0.2rem;
-  }
-
-  .photo-meta {
-    text-align: left;
   }
 
   .photo-lightbox__stage {

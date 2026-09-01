@@ -12,11 +12,7 @@ redirect_from:
 <main class="home-page">
   <header class="profile-hero" aria-labelledby="home-title">
     <div class="profile-hero__identity">
-      <div class="document-meta">
-        <span>Academic profile</span>
-        <span>Statistics</span>
-      </div>
-      <h1 id="home-title">Haoyang<br>Yu</h1>
+      <h1 id="home-title">Haoyang Yu</h1>
       <p class="profile-hero__role">Ph.D. candidate in Statistics<br>Tsinghua University</p>
       <div class="profile-links" aria-label="Academic profiles and contact">
         <a href="mailto:yhy22@mails.tsinghua.edu.cn">Email</a>
@@ -35,8 +31,8 @@ redirect_from:
     <div class="profile-hero__facts">
       <dl class="fact-list">
         <div>
-          <dt>Department</dt>
-          <dd>Statistics and Data Science</dd>
+          <dt>Affiliation</dt>
+          <dd>Department of Statistics and Data Science, Tsinghua University</dd>
         </div>
         <div>
           <dt>Advisor</dt>
@@ -44,8 +40,7 @@ redirect_from:
         </div>
         <div>
           <dt>Research</dt>
-          <dd>Causal inference in complex experimental designs</dd>
-          <dd>Optimal experimental design theory</dd>
+          <dd>Design-based causal inference</dd>
         </div>
       </dl>
     </div>
@@ -53,11 +48,7 @@ redirect_from:
 
   <section class="indexed-section" aria-labelledby="education-title">
     <header class="indexed-section__heading">
-      <span class="section-number">01</span>
-      <div>
-        <p>Background</p>
-        <h2 id="education-title">Education</h2>
-      </div>
+      <h2 id="education-title">Education</h2>
     </header>
     <div class="indexed-section__content record-list">
       <article class="record">
@@ -70,7 +61,8 @@ redirect_from:
       <article class="record">
         <div>
           <h3>B.S. in Mathematics and Physics</h3>
-          <p>Minor in Statistics, Tsinghua University</p>
+          <p>Tsinghua University</p>
+          <p class="record__emphasis">Minor in Statistics</p>
         </div>
         <time>2018–2022</time>
       </article>
@@ -79,22 +71,17 @@ redirect_from:
 
   <section class="indexed-section" aria-labelledby="research-title">
     <header class="indexed-section__heading">
-      <span class="section-number">02</span>
-      <div>
-        <p>Research output</p>
-        <h2 id="research-title">Research</h2>
-      </div>
+      <h2 id="research-title">Research</h2>
     </header>
     <div class="indexed-section__content home-research-groups">
       <section class="home-research-group" aria-labelledby="home-publications-title">
         <header class="home-research-group__heading">
-          <span>01</span>
           <h3 id="home-publications-title">Publications</h3>
         </header>
         <div class="work-list">
           <article class="work-entry">
             <div class="work-entry__meta">
-              <span>R.01</span>
+              <span>01</span>
               <span>Statistics in Medicine · 2025</span>
             </div>
             <h4><a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70139">Sharp variance estimator and causal bootstrap in stratified randomized experiments</a></h4>
@@ -110,13 +97,12 @@ redirect_from:
 
       <section class="home-research-group" aria-labelledby="home-working-papers-title">
         <header class="home-research-group__heading">
-          <span>02</span>
           <h3 id="home-working-papers-title">Working papers</h3>
         </header>
         <div class="work-list">
           <article class="work-entry">
             <div class="work-entry__meta">
-              <span>R.02</span>
+              <span>02</span>
               <span>Submitted</span>
             </div>
             <h4><a href="https://arxiv.org/abs/2501.14602">Minimax optimal design with spillover and carryover effects</a></h4>
@@ -129,7 +115,7 @@ redirect_from:
           </article>
           <article class="work-entry">
             <div class="work-entry__meta">
-              <span>R.03</span>
+              <span>03</span>
               <span>Submitted</span>
             </div>
             <h4><a href="https://arxiv.org/abs/2606.00965">Design-based edge-level causal inference with machine learning assisted covariate adjustment</a></h4>
@@ -140,7 +126,7 @@ redirect_from:
           </article>
           <article class="work-entry">
             <div class="work-entry__meta">
-              <span>R.04</span>
+              <span>04</span>
               <span>Submitted · Chinese</span>
             </div>
             <h4><a href="https://arxiv.org/abs/2511.22518">Design-based Theory for Causal Inference (in Chinese)</a></h4>
@@ -156,11 +142,7 @@ redirect_from:
 
   <section class="indexed-section" aria-labelledby="awards-title">
     <header class="indexed-section__heading">
-      <span class="section-number">03</span>
-      <div>
-        <p>Academic honors</p>
-        <h2 id="awards-title">Awards</h2>
-      </div>
+      <h2 id="awards-title">Awards</h2>
     </header>
     <div class="indexed-section__content">
       <ul class="award-list">
@@ -178,51 +160,46 @@ redirect_from:
 
   <section class="indexed-section" aria-labelledby="teaching-title">
     <header class="indexed-section__heading">
-      <span class="section-number">04</span>
-      <div>
-        <p>Tsinghua University</p>
-        <h2 id="teaching-title">Teaching Assistant Experience</h2>
-      </div>
+      <h2 id="teaching-title">Teaching</h2>
     </header>
-    <div class="indexed-section__content teaching-columns">
-      <article>
-        <h3>Undergraduate</h3>
-        <ul>
-          <li><span>Statistical Inference</span><time>Fall 2022</time></li>
-          <li><span>Introduction to Bayesian Statistics</span><time>Spring 2023, 2024</time></li>
-          <li>
-            <div>
-              <span>Introduction to Causal Inference</span>
-              <p class="teaching-note">Outstanding Teaching Assistant Award · 2025</p>
-            </div>
-            <time>Fall 2023, 2024</time>
-          </li>
-          <li><span>Introduction to Biostatistics and Bioinformatics</span><time>Spring 2026</time></li>
-        </ul>
-      </article>
-      <article>
-        <h3>Graduate</h3>
-        <ul>
-          <li><span>Advanced Probability Theory II</span><time>Spring 2024</time></li>
-          <li>
-            <div>
-              <span>Selected Topics on Advanced Statistics</span>
-              <p class="teaching-note">Topic · Bayesian Theory, Methods, and Computation</p>
-            </div>
-            <time>Spring 2026</time>
-          </li>
-        </ul>
-      </article>
+    <div class="indexed-section__content teaching-experience">
+      <h3 class="teaching-role">Teaching Assistant</h3>
+      <div class="teaching-columns">
+        <article>
+          <h4>Undergraduate</h4>
+          <ul>
+            <li><span>Statistical Inference</span><time>Fall 2022</time></li>
+            <li><span>Introduction to Bayesian Statistics</span><time>Spring 2023, 2024</time></li>
+            <li>
+              <div>
+                <span>Introduction to Causal Inference</span>
+                <p class="teaching-note">Outstanding Teaching Assistant Award · 2025</p>
+              </div>
+              <time>Fall 2023, 2024</time>
+            </li>
+            <li><span>Introduction to Biostatistics and Bioinformatics</span><time>Spring 2026</time></li>
+          </ul>
+        </article>
+        <article>
+          <h4>Graduate</h4>
+          <ul>
+            <li><span>Advanced Probability Theory II</span><time>Spring 2024</time></li>
+            <li>
+              <div>
+                <span>Selected Topics on Advanced Statistics</span>
+                <p class="teaching-note">Topic · Bayesian Theory, Methods, and Computation</p>
+              </div>
+              <time>Spring 2026</time>
+            </li>
+          </ul>
+        </article>
+      </div>
     </div>
   </section>
 
   <section class="indexed-section contact-section" aria-labelledby="contact-title">
     <header class="indexed-section__heading">
-      <span class="section-number">05</span>
-      <div>
-        <p>Email</p>
-        <h2 id="contact-title">Contact</h2>
-      </div>
+      <h2 id="contact-title">Contact</h2>
     </header>
     <div class="indexed-section__content contact-list">
       <a href="mailto:yhy22@mails.tsinghua.edu.cn">yhy22@mails.tsinghua.edu.cn</a>

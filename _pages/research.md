@@ -2,7 +2,7 @@
 layout: default
 title: "Research"
 permalink: /research/
-excerpt: "Research in causal inference and experimental design."
+excerpt: "Research in design-based causal inference."
 author_profile: false
 redirect_from:
   - /resume
@@ -10,29 +10,20 @@ redirect_from:
 
 <main class="research-page">
   <header class="content-hero">
-    <div class="document-meta">
-      <span>Research</span>
-      <span>04 works</span>
-    </div>
     <h1>Research</h1>
     <div class="content-hero__summary">
-      <p>My work focuses on causal inference in complex experimental designs and optimal experimental design.</p>
-      <dl>
-        <div><dt>Area 01</dt><dd>Causal inference</dd></div>
-        <div><dt>Area 02</dt><dd>Experimental design</dd></div>
-      </dl>
+      <p>My work focuses on design-based causal inference.</p>
     </div>
   </header>
 
   <section class="research-section" aria-labelledby="published-title">
     <header>
-      <span class="section-number">01</span>
       <h2 id="published-title">Publications</h2>
     </header>
     <div class="work-list">
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>R.01</span>
+          <span>01</span>
           <span>Statistics in Medicine · 2025</span>
         </div>
         <h3><a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70139">Sharp variance estimator and causal bootstrap in stratified randomized experiments</a></h3>
@@ -48,13 +39,12 @@ redirect_from:
 
   <section class="research-section" aria-labelledby="working-papers-title">
     <header>
-      <span class="section-number">02</span>
       <h2 id="working-papers-title">Working papers</h2>
     </header>
     <div class="work-list">
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>R.02</span>
+          <span>02</span>
           <span>Submitted</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2501.14602">Minimax optimal design with spillover and carryover effects</a></h3>
@@ -67,7 +57,7 @@ redirect_from:
       </article>
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>R.03</span>
+          <span>03</span>
           <span>Submitted</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2606.00965">Design-based edge-level causal inference with machine learning assisted covariate adjustment</a></h3>
@@ -78,7 +68,7 @@ redirect_from:
       </article>
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>R.04</span>
+          <span>04</span>
           <span>Submitted · Chinese</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2511.22518">Design-based Theory for Causal Inference (in Chinese)</a></h3>

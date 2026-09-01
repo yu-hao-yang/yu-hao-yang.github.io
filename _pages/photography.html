@@ -3,7 +3,7 @@ layout: default
 title: "Photography"
 permalink: /photography/
 author_profile: false
-excerpt: "A personal collection of photographs by Haoyang Yu."
+excerpt: "Photography is one of my everyday interests. Landscape photographs from my travels."
 ---
 
 {% include base_path %}
@@ -12,8 +12,12 @@ excerpt: "A personal collection of photographs by Haoyang Yu."
 
 <main class="photo-page">
   <header class="photo-hero">
+    <div class="document-meta">
+      <span>Personal work</span>
+      <span>{{ site.data.photography.size }} photographs</span>
+    </div>
     <h1>Photography</h1>
-    <p class="photo-intro">Photographs from my travels, ordered from newest to oldest.</p>
+    <p class="photo-intro">Photography is one of my everyday interests. Below are landscape photographs taken during my travels.</p>
   </header>
 
   {% assign sorted_photos = site.data.photography | sort: "sort_date" | reverse %}
@@ -50,7 +54,8 @@ excerpt: "A personal collection of photographs by Haoyang Yu."
           </span>
         </button>
         <figcaption>
-          <span class="photo-title">{{ photo.location }}, {{ photo.date }}</span>
+          <span class="photo-title">{{ photo.location }}</span>
+          <span class="photo-date">{{ photo.date }}</span>
         </figcaption>
       </figure>
     {% endfor %}

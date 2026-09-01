@@ -48,7 +48,7 @@ redirect_from:
           <span>Submitted</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2501.14602">Minimax Optimal Design with Spillover and Carryover Effects</a></h3>
-        <p><strong>Haoyang Yu</strong>, Wei Ma, and Hanzhong Liu.</p>
+        <p><strong>Haoyang Yu</strong>, Wei Ma, and Hanzhong Liu. arXiv: 2501.14602.</p>
         <div class="work-links">
           <a href="https://arxiv.org/abs/2501.14602">arXiv</a>
           <a href="https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link">Poster</a>
@@ -61,7 +61,7 @@ redirect_from:
           <span>Submitted</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2606.00965">Design-Based Edge-Level Causal Inference with Machine Learning Assisted Covariate Adjustment</a></h3>
-        <p><strong>Haoyang Yu</strong>, Yilin Li, Lu Deng, Yong Wang, Xin Lu, and Hanzhong Liu.</p>
+        <p><strong>Haoyang Yu</strong>, Yilin Li, Lu Deng, Yong Wang, Xin Lu, and Hanzhong Liu. arXiv: 2606.00965.</p>
         <div class="work-links">
           <a href="https://arxiv.org/abs/2606.00965">arXiv</a>
         </div>
@@ -72,7 +72,7 @@ redirect_from:
           <span>Submitted · Chinese</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a></h3>
-        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu.</p>
+        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu. arXiv: 2511.22518.</p>
         <div class="work-links">
           <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
         </div>

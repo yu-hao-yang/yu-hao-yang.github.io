@@ -1,0 +1,65 @@
+---
+layout: default
+title: "Photography"
+permalink: /photography/
+author_profile: false
+excerpt: "A personal collection of photographs by Haoyang Yu."
+---
+
+{% include base_path %}
+
+<link rel="stylesheet" href="{{ base_path }}/assets/css/photography.css">
+
+<main class="photo-page">
+  <header class="photo-hero">
+    <h1>Photography</h1>
+    <p class="photo-intro">Photographs from my travels, ordered from newest to oldest.</p>
+  </header>
+
+  {% assign sorted_photos = site.data.photography | sort: "sort_date" | reverse %}
+  {% assign photo_categories = sorted_photos | map: "category" | uniq %}
+  {% if photo_categories.size > 1 %}
+    <nav class="photo-filters" aria-label="Filter photographs">
+      <button class="photo-filter is-active" type="button" data-filter="all">All</button>
+      {% for category in photo_categories %}
+        <button class="photo-filter" type="button" data-filter="{{ category | slugify }}">{{ category }}</button>
+      {% endfor %}
+    </nav>
+  {% endif %}
+
+  <section class="photo-grid" aria-label="Photography collection">
+    {% for photo in sorted_photos %}
+      <figure class="photo-card" data-category="{{ photo.category | slugify }}">
+        <button class="photo-open" type="button"
+          data-image="{{ base_path }}{{ photo.image }}"
+          data-title="{{ photo.location | escape }}"
+          data-meta="{{ photo.date | escape }}"
+          aria-label="View photograph from {{ photo.location | escape }}, {{ photo.date | escape }} full screen">
+          <span class="photo-image-wrap">
+            <img src="{{ base_path }}{{ photo.image }}"
+              alt="{{ photo.alt | escape }}"
+              style="object-position: {{ photo.position | default: 'center' }}"
+              loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
+          </span>
+        </button>
+        <figcaption>
+          <span class="photo-title">{{ photo.location }}, {{ photo.date }}</span>
+        </figcaption>
+      </figure>
+    {% endfor %}
+  </section>
+
+</main>
+
+<dialog class="photo-lightbox" aria-label="Photograph viewer">
+  <button class="photo-lightbox__close" type="button" aria-label="Close photograph viewer">×</button>
+  <div class="photo-lightbox__stage">
+    <img src="" alt="">
+  </div>
+  <div class="photo-lightbox__caption">
+    <strong></strong>
+    <span></span>
+  </div>
+</dialog>
+
+<script src="{{ base_path }}/assets/js/photography.js" defer></script>

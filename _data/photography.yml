@@ -1,0 +1,120 @@
+# Photographs are listed newest first. Dates come from the YYYYMM portion of
+# each original filename; locations come from the filename's city name.
+- image: /images/photography/Barcelona_202608_1.jpg
+  location: "Barcelona, Spain"
+  date: "August 2026"
+  sort_date: "2026-08"
+  category: "Spain"
+  alt: "Photograph made in Barcelona, Spain, August 2026"
+
+- image: /images/photography/Barcelona_202608_2.jpg
+  location: "Barcelona, Spain"
+  date: "August 2026"
+  sort_date: "2026-08"
+  category: "Spain"
+  alt: "Photograph made in Barcelona, Spain, August 2026"
+
+- image: /images/photography/Barcelona_202608_3.jpg
+  location: "Barcelona, Spain"
+  date: "August 2026"
+  sort_date: "2026-08"
+  category: "Spain"
+  alt: "Photograph made in Barcelona, Spain, August 2026"
+
+- image: /images/photography/Guiyang_202607_1.jpg
+  location: "Guiyang, China"
+  date: "July 2026"
+  sort_date: "2026-07"
+  category: "China"
+  alt: "Photograph made in Guiyang, China, July 2026"
+
+- image: /images/photography/Jeju_202607_1.jpg
+  location: "Jeju, South Korea"
+  date: "July 2026"
+  sort_date: "2026-07"
+  category: "South Korea"
+  alt: "Photograph made in Jeju, South Korea, July 2026"
+
+- image: /images/photography/Jeju_202607_2.jpg
+  location: "Jeju, South Korea"
+  date: "July 2026"
+  sort_date: "2026-07"
+  category: "South Korea"
+  alt: "Photograph made in Jeju, South Korea, July 2026"
+
+- image: /images/photography/Lisbon_202607_1.jpg
+  location: "Lisbon, Portugal"
+  date: "July 2026"
+  sort_date: "2026-07"
+  category: "Portugal"
+  alt: "Photograph made in Lisbon, Portugal, July 2026"
+
+- image: /images/photography/Madrid_202607_1.jpg
+  location: "Madrid, Spain"
+  date: "July 2026"
+  sort_date: "2026-07"
+  category: "Spain"
+  alt: "Photograph made in Madrid, Spain, July 2026"
+
+- image: /images/photography/Seville_202607_1.jpg
+  location: "Seville, Spain"
+  date: "July 2026"
+  sort_date: "2026-07"
+  category: "Spain"
+  alt: "Photograph made in Seville, Spain, July 2026"
+
+- image: /images/photography/Beijing_202601_1.jpg
+  location: "Beijing, China"
+  date: "January 2026"
+  sort_date: "2026-01"
+  category: "China"
+  alt: "Photograph made in Beijing, China, January 2026"
+
+- image: /images/photography/Hangzhou_202507_1.jpg
+  location: "Hangzhou, China"
+  date: "July 2025"
+  sort_date: "2025-07"
+  category: "China"
+  alt: "Photograph made in Hangzhou, China, July 2025"
+
+- image: /images/photography/Sanya_202412_1.jpg
+  location: "Sanya, China"
+  date: "December 2024"
+  sort_date: "2024-12"
+  category: "China"
+  alt: "Photograph made in Sanya, China, December 2024"
+
+- image: /images/photography/Baoji_202407_1.jpg
+  location: "Baoji, China"
+  date: "July 2024"
+  sort_date: "2024-07"
+  category: "China"
+  alt: "Photograph made in Baoji, China, July 2024"
+
+- image: /images/photography/Xian_202407_1.jpg
+  location: "Xi'an, China"
+  date: "July 2024"
+  sort_date: "2024-07"
+  category: "China"
+  alt: "Photograph made in Xi'an, China, July 2024"
+
+- image: /images/photography/Fukushima_202307.jpg
+  location: "Fukushima, Japan"
+  date: "July 2023"
+  sort_date: "2023-07"
+  category: "Japan"
+  alt: "Photograph made in Fukushima, Japan, July 2023"
+
+- image: /images/photography/Kyoto_202307_1.jpg
+  location: "Kyoto, Japan"
+  date: "July 2023"
+  sort_date: "2023-07"
+  category: "Japan"
+  alt: "Photograph made in Kyoto, Japan, July 2023"
+
+- image: /images/photography/Tokyo_202307_1.jpg
+  location: "Tokyo, Japan"
+  date: "July 2023"
+  sort_date: "2023-07"
+  category: "Japan"
+  alt: "Photograph made in Tokyo, Japan, July 2023"

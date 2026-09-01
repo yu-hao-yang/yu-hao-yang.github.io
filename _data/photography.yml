@@ -145,6 +145,15 @@
   category: "Japan"
   alt: "Photograph made in Kyoto, Japan, July 2023"
 
+- image: /images/photography/Kamakura_202307_1.jpg
+  width: 2400
+  height: 1600
+  location: "Kamakura, Japan"
+  date: "July 2023"
+  sort_date: "2023-07"
+  category: "Japan"
+  alt: "Photograph made in Kamakura, Japan, July 2023"
+
 - image: /images/photography/Tokyo_202307_1.jpg
   width: 1599
   height: 2400

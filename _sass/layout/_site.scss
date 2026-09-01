@@ -145,14 +145,15 @@ button:focus-visible {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
   column-gap: clamp(1.2rem, 2.5vw, 2.2rem);
-  row-gap: 3.5rem;
-  min-height: calc(100vh - 76px);
-  padding: clamp(4rem, 8vw, 6.5rem) 0;
+  align-items: start;
+  padding: clamp(3.5rem, 6vw, 5rem) 0 clamp(4rem, 7vw, 5.5rem);
 }
 
-.profile-hero__identity {
-  grid-column: 1 / span 7;
-  align-self: center;
+.profile-hero__details {
+  grid-column: 1 / span 8;
+  display: flex;
+  flex-direction: column;
+  gap: clamp(2.5rem, 4.5vw, 3.75rem);
 }
 
 .profile-hero__identity h1 {
@@ -167,7 +168,7 @@ button:focus-visible {
 }
 
 .profile-hero__role {
-  margin: 2.5rem 0 0;
+  margin: 2rem 0 0;
   color: var(--site-ink);
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(1.05rem, 2vw, 1.35rem);
@@ -178,7 +179,7 @@ button:focus-visible {
   display: flex;
   flex-wrap: wrap;
   gap: 0.65rem;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .profile-links a,
@@ -208,11 +209,10 @@ button:focus-visible {
 
 .profile-portrait {
   grid-column: 9 / span 4;
-  grid-row: 1 / span 2;
   display: block;
   align-self: start;
   margin: 0;
-  padding-top: 2.1rem;
+  padding-top: 0;
 }
 
 .profile-portrait img {
@@ -240,13 +240,12 @@ button:focus-visible {
 }
 
 .profile-hero__facts {
-  grid-column: 1 / span 7;
-  align-self: end;
+  width: 100%;
 }
 
 .fact-list {
   display: grid;
-  grid-template-columns: 1fr 0.8fr 1.65fr;
+  grid-template-columns: minmax(0, 1.9fr) minmax(130px, 0.8fr) minmax(170px, 1.15fr);
   margin: 0;
   border-top: 1px solid var(--site-line-strong);
   border-bottom: 1px solid var(--site-line);
@@ -284,7 +283,7 @@ button:focus-visible {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
   column-gap: clamp(1.2rem, 2.5vw, 2.2rem);
-  padding: clamp(4.5rem, 9vw, 7.5rem) 0;
+  padding: clamp(3.75rem, 6.5vw, 5.5rem) 0;
   border-top: 1px solid var(--site-line-strong);
 }
 
@@ -358,7 +357,7 @@ button:focus-visible {
 
 .home-research-groups {
   display: grid;
-  gap: clamp(3.5rem, 7vw, 5.5rem);
+  gap: clamp(3rem, 5vw, 4.5rem);
 }
 
 .home-research-group__heading {
@@ -525,7 +524,7 @@ button:focus-visible {
 }
 
 .contact-section {
-  padding-bottom: clamp(5rem, 10vw, 8rem);
+  padding-bottom: clamp(4rem, 7vw, 6rem);
 }
 
 .contact-list {
@@ -551,7 +550,7 @@ button:focus-visible {
 }
 
 .content-hero {
-  padding: clamp(5rem, 10vw, 8rem) 0 clamp(4.5rem, 8vw, 6rem);
+  padding: clamp(4rem, 7vw, 6rem) 0 clamp(3.5rem, 6vw, 4.75rem);
 }
 
 .content-hero h1 {
@@ -565,7 +564,7 @@ button:focus-visible {
 }
 
 .content-hero__summary {
-  margin-top: clamp(3rem, 7vw, 5rem);
+  margin-top: clamp(2rem, 4vw, 3rem);
   padding-top: 1rem;
   border-top: 1px solid var(--site-line-strong);
 }
@@ -583,7 +582,7 @@ button:focus-visible {
   display: grid;
   grid-template-columns: repeat(12, minmax(0, 1fr));
   column-gap: clamp(1.2rem, 2.5vw, 2.2rem);
-  padding: clamp(4rem, 8vw, 6.5rem) 0;
+  padding: clamp(3.5rem, 6vw, 5rem) 0;
   border-top: 1px solid var(--site-line-strong);
 }
 
@@ -606,7 +605,7 @@ button:focus-visible {
 }
 
 .research-section:last-child {
-  padding-bottom: clamp(6rem, 11vw, 9rem);
+  padding-bottom: clamp(5rem, 8vw, 6.5rem);
 }
 
 /* 404 */
@@ -682,16 +681,12 @@ button:focus-visible {
 /* Responsive */
 
 @media (max-width: 900px) {
-  .profile-hero__identity {
+  .profile-hero__details {
     grid-column: 1 / span 7;
   }
 
   .profile-portrait {
     grid-column: 9 / span 4;
-  }
-
-  .profile-hero__facts {
-    grid-column: 1 / span 8;
   }
 
   .fact-list {
@@ -735,7 +730,12 @@ button:focus-visible {
     flex-direction: column;
     gap: 3rem;
     min-height: 0;
-    padding: 4rem 0 5rem;
+    padding: 3.5rem 0 4.5rem;
+  }
+
+  .profile-hero__details {
+    width: 100%;
+    gap: 2.75rem;
   }
 
   .profile-hero__identity h1 {

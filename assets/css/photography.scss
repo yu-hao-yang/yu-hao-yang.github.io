@@ -4,13 +4,13 @@
 .photo-page {
   width: min(var(--site-width), calc(100% - var(--site-gutter)));
   margin: 0 auto;
-  padding: clamp(5rem, 10vw, 8rem) 0 clamp(6rem, 11vw, 9rem);
+  padding: clamp(4rem, 7vw, 6rem) 0 clamp(5rem, 8vw, 7rem);
   color: var(--site-ink);
 }
 
 .photo-hero {
   max-width: 900px;
-  margin-bottom: clamp(3.5rem, 8vw, 6rem);
+  margin-bottom: clamp(3rem, 5vw, 4.5rem);
 }
 
 .photo-hero h1 {
@@ -25,7 +25,7 @@
 
 .photo-intro {
   max-width: 650px;
-  margin: clamp(2rem, 4vw, 3rem) 0 0;
+  margin: clamp(1.5rem, 3vw, 2.25rem) 0 0;
   color: var(--site-muted);
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(1rem, 2vw, 1.25rem);

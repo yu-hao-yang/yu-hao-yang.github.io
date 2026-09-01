@@ -27,7 +27,7 @@ redirect_from:
   <section class="research-section" aria-labelledby="published-title">
     <header>
       <span class="section-number">01</span>
-      <h2 id="published-title">Published</h2>
+      <h2 id="published-title">Publications</h2>
     </header>
     <div class="work-list">
       <article class="work-entry">

@@ -77,63 +77,80 @@ redirect_from:
     </div>
   </section>
 
-  <section class="indexed-section" aria-labelledby="publications-title">
+  <section class="indexed-section" aria-labelledby="research-title">
     <header class="indexed-section__heading">
       <span class="section-number">02</span>
       <div>
         <p>Research output</p>
-        <h2 id="publications-title">Publications</h2>
+        <h2 id="research-title">Research</h2>
       </div>
     </header>
-    <div class="indexed-section__content work-list">
-      <article class="work-entry">
-        <div class="work-entry__meta">
-          <span>R.01</span>
-          <span>Statistics in Medicine · 2025</span>
+    <div class="indexed-section__content home-research-groups">
+      <section class="home-research-group" aria-labelledby="home-publications-title">
+        <header class="home-research-group__heading">
+          <span>01</span>
+          <h3 id="home-publications-title">Publications</h3>
+        </header>
+        <div class="work-list">
+          <article class="work-entry">
+            <div class="work-entry__meta">
+              <span>R.01</span>
+              <span>Statistics in Medicine · 2025</span>
+            </div>
+            <h4><a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70139">Sharp variance estimator and causal bootstrap in stratified randomized experiments</a></h4>
+            <p><strong>Haoyang Yu</strong>, Ke Zhu, and Hanzhong Liu. <em>Statistics in Medicine</em>, 44: e70139.</p>
+            <div class="work-links">
+              <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139?domain=author&amp;token=BUFGBT3URH3BSCBGWQAE">PDF</a>
+              <a href="https://arxiv.org/abs/2401.16667">arXiv</a>
+              <a href="https://github.com/yu-hao-yang/CausalBootstrap">Package</a>
+            </div>
+          </article>
         </div>
-        <h3><a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70139">Sharp variance estimator and causal bootstrap in stratified randomized experiments</a></h3>
-        <p><strong>Haoyang Yu</strong>, Ke Zhu, and Hanzhong Liu. <em>Statistics in Medicine</em>, 44: e70139.</p>
-        <div class="work-links">
-          <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139?domain=author&amp;token=BUFGBT3URH3BSCBGWQAE">PDF</a>
-          <a href="https://arxiv.org/abs/2401.16667">arXiv</a>
-          <a href="https://github.com/yu-hao-yang/CausalBootstrap">Package</a>
+      </section>
+
+      <section class="home-research-group" aria-labelledby="home-working-papers-title">
+        <header class="home-research-group__heading">
+          <span>02</span>
+          <h3 id="home-working-papers-title">Working papers</h3>
+        </header>
+        <div class="work-list">
+          <article class="work-entry">
+            <div class="work-entry__meta">
+              <span>R.02</span>
+              <span>Submitted</span>
+            </div>
+            <h4><a href="https://arxiv.org/abs/2501.14602">Minimax optimal design with spillover and carryover effects</a></h4>
+            <p><strong>Haoyang Yu</strong>, Wei Ma, and Hanzhong Liu.</p>
+            <div class="work-links">
+              <a href="https://arxiv.org/abs/2501.14602">arXiv</a>
+              <a href="https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link">Poster</a>
+              <a href="https://github.com/yu-hao-yang/minimax">Code</a>
+            </div>
+          </article>
+          <article class="work-entry">
+            <div class="work-entry__meta">
+              <span>R.03</span>
+              <span>Submitted</span>
+            </div>
+            <h4><a href="https://arxiv.org/abs/2606.00965">Design-based edge-level causal inference with machine learning assisted covariate adjustment</a></h4>
+            <p><strong>Haoyang Yu</strong>, Yilin Li, Lu Deng, Yong Wang, Xin Lu, and Hanzhong Liu.</p>
+            <div class="work-links">
+              <a href="https://arxiv.org/abs/2606.00965">arXiv</a>
+            </div>
+          </article>
+          <article class="work-entry">
+            <div class="work-entry__meta">
+              <span>R.04</span>
+              <span>Submitted · Chinese</span>
+            </div>
+            <h4><a href="https://arxiv.org/abs/2511.22518">Design-based Theory for Causal Inference (in Chinese)</a></h4>
+            <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu.</p>
+            <div class="work-links">
+              <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
+            </div>
+          </article>
         </div>
-      </article>
-      <article class="work-entry">
-        <div class="work-entry__meta">
-          <span>R.02</span>
-          <span>Submitted</span>
-        </div>
-        <h3><a href="https://arxiv.org/abs/2501.14602">Minimax optimal design with spillover and carryover effects</a></h3>
-        <p><strong>Haoyang Yu</strong>, Wei Ma, and Hanzhong Liu.</p>
-        <div class="work-links">
-          <a href="https://arxiv.org/abs/2501.14602">arXiv</a>
-          <a href="https://drive.google.com/file/d/1iIWW7cJH1ZCMkbTGKjsP1vugDg9XBHQb/view?usp=share_link">Poster</a>
-          <a href="https://github.com/yu-hao-yang/minimax">Code</a>
-        </div>
-      </article>
-      <article class="work-entry">
-        <div class="work-entry__meta">
-          <span>R.03</span>
-          <span>Submitted</span>
-        </div>
-        <h3><a href="https://arxiv.org/abs/2606.00965">Design-based edge-level causal inference with machine learning assisted covariate adjustment</a></h3>
-        <p><strong>Haoyang Yu</strong>, Yilin Li, Lu Deng, Yong Wang, Xin Lu, and Hanzhong Liu.</p>
-        <div class="work-links">
-          <a href="https://arxiv.org/abs/2606.00965">arXiv</a>
-        </div>
-      </article>
-      <article class="work-entry">
-        <div class="work-entry__meta">
-          <span>R.04</span>
-          <span>Submitted · Chinese</span>
-        </div>
-        <h3><a href="https://arxiv.org/abs/2511.22518">Design-based Theory for Causal Inference (in Chinese)</a></h3>
-        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu.</p>
-        <div class="work-links">
-          <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
-        </div>
-      </article>
+      </section>
     </div>
   </section>
 
@@ -141,7 +158,7 @@ redirect_from:
     <header class="indexed-section__heading">
       <span class="section-number">03</span>
       <div>
-        <p>Academic recognition</p>
+        <p>Academic honors</p>
         <h2 id="awards-title">Awards</h2>
       </div>
     </header>
@@ -163,8 +180,8 @@ redirect_from:
     <header class="indexed-section__heading">
       <span class="section-number">04</span>
       <div>
-        <p>Teaching assistant</p>
-        <h2 id="teaching-title">Teaching</h2>
+        <p>Tsinghua University</p>
+        <h2 id="teaching-title">Teaching Assistant Experience</h2>
       </div>
     </header>
     <div class="indexed-section__content teaching-columns">
@@ -173,7 +190,13 @@ redirect_from:
         <ul>
           <li><span>Statistical Inference</span><time>Fall 2022</time></li>
           <li><span>Introduction to Bayesian Statistics</span><time>Spring 2023, 2024</time></li>
-          <li><span>Introduction to Causal Inference</span><time>Fall 2023, 2024</time></li>
+          <li>
+            <div>
+              <span>Introduction to Causal Inference</span>
+              <p class="teaching-note">Outstanding Teaching Assistant Award · 2025</p>
+            </div>
+            <time>Fall 2023, 2024</time>
+          </li>
           <li><span>Introduction to Biostatistics and Bioinformatics</span><time>Spring 2026</time></li>
         </ul>
       </article>
@@ -181,7 +204,13 @@ redirect_from:
         <h3>Graduate</h3>
         <ul>
           <li><span>Advanced Probability Theory II</span><time>Spring 2024</time></li>
-          <li><span>Selected Topics on Advanced Statistics</span><time>Spring 2026</time></li>
+          <li>
+            <div>
+              <span>Selected Topics on Advanced Statistics</span>
+              <p class="teaching-note">Topic · Bayesian Theory, Methods, and Computation</p>
+            </div>
+            <time>Spring 2026</time>
+          </li>
         </ul>
       </article>
     </div>

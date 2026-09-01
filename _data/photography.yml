@@ -1,5 +1,6 @@
-# Photographs are listed newest first. Dates come from the YYYYMM portion of
-# each original filename; locations come from the filename's city name.
+# Site-ready image files live in images/photography and are tracked by Git.
+# To add a photograph, place its JPG there and add one metadata block below.
+# The page sorts entries by sort_date, so this file does not need manual reordering.
 - image: /images/photography/Barcelona_202608_1.jpg
   width: 1597
   height: 2400

@@ -196,7 +196,7 @@ redirect_from:
             <li>
               <div>
                 <span>Introduction to Causal Inference</span>
-                <p class="teaching-note">Outstanding Teaching Assistant Award · 2025</p>
+                <p class="teaching-note">Awarded Outstanding Teaching Assistant Award (2025)</p>
               </div>
               <time>Fall 2023, 2024</time>
             </li>
@@ -210,7 +210,7 @@ redirect_from:
             <li>
               <div>
                 <span>Selected Topics on Advanced Statistics</span>
-                <p class="teaching-note">Topic · Bayesian Theory, Methods, and Computation</p>
+                <p class="teaching-note">Topic: Bayesian Theory, Methods, and Computation</p>
               </div>
               <time>Spring 2026</time>
             </li>

@@ -37,10 +37,10 @@ redirect_from:
       <article class="work-entry">
         <div class="work-entry__meta">
           <span>02</span>
-          <span>Advances in Mathematics (China) · Forthcoming</span>
+          <span>Advances in Mathematics (China) · 2026</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a></h3>
-        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu. <em>Advances in Mathematics (China)</em>, forthcoming.</p>
+        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu. <em>Advances in Mathematics (China)</em>, in press.</p>
         <div class="work-links">
           <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
         </div>

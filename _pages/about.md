@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /
-title: "Haoyang Yu"
+title: "Haoyang Yu · 于浩洋"
 excerpt: "Ph.D. candidate in Statistics at Tsinghua University."
 author_profile: false
 redirect_from:
@@ -13,40 +13,49 @@ redirect_from:
   <header class="profile-hero" aria-labelledby="home-title">
     <div class="profile-hero__details">
       <div class="profile-hero__identity">
-        <h1 id="home-title">Haoyang Yu</h1>
-        <p class="profile-hero__role">Ph.D. candidate in Statistics<br>Tsinghua University</p>
+        <h1 id="home-title">Haoyang Yu · <span lang="zh-Hans">于浩洋</span></h1>
+        <div class="profile-hero__bio">
+          <p>I am a fifth-year Ph.D. candidate in the Department of Statistics and Data Science at Tsinghua University, very fortunate to be advised by <a href="https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm">Prof. Hanzhong Liu</a>.</p>
+          <p>I obtained my B.S. degree in Mathematics and Physics (with a minor in Statistics) from Tsinghua University. My research interests are in design-based causal inference and experimental design.</p>
+        </div>
         <div class="profile-links" aria-label="Academic profiles and contact">
           <a href="mailto:yhy22@mails.tsinghua.edu.cn">Email</a>
           <a href="https://scholar.google.com.hk/citations?user=2ZOZnr8AAAAJ&amp;hl=zh-CN">Google Scholar</a>
+          <a href="{{ base_path }}/files/CV.pdf" target="_blank" rel="noopener">CV</a>
         </div>
-      </div>
-
-      <div class="profile-hero__facts">
-        <dl class="fact-list">
-          <div>
-            <dt>Affiliation</dt>
-            <dd>Department of Statistics and Data Science, Tsinghua University</dd>
-          </div>
-          <div>
-            <dt>Advisor</dt>
-            <dd><a href="https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm">Prof. Hanzhong Liu</a></dd>
-          </div>
-          <div>
-            <dt>Research</dt>
-            <dd>Design-based causal inference</dd>
-          </div>
-        </dl>
       </div>
     </div>
 
     <figure class="profile-portrait">
-      <img src="{{ base_path }}/images/DSC07438.jpg" alt="Haoyang Yu at Tsinghua University">
+      <img src="{{ base_path }}/images/DSC07438.jpg" alt="Haoyang Yu (于浩洋) at Tsinghua University">
       <figcaption>
-        <span>Haoyang Yu</span>
+        <span>Haoyang Yu · 于浩洋</span>
         <span>Tsinghua University</span>
       </figcaption>
     </figure>
   </header>
+
+  <section class="indexed-section" aria-labelledby="news-title">
+    <header class="indexed-section__heading">
+      <h2 id="news-title">News</h2>
+    </header>
+    <div class="indexed-section__content">
+      <ul class="news-list">
+        <li>
+          <p>Our new preprint <a href="https://arxiv.org/abs/2609.23284">Unbiased Treatment Effect Estimation under Network Interference via Neighborhood-Excluded Cross-Fitting</a> is available on arXiv.</p>
+          <time datetime="2026-09">Sep 2026</time>
+        </li>
+        <li>
+          <p>Our review <a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a> is accepted by <em>Advances in Mathematics (China)</em>.</p>
+          <time datetime="2026-09">Sep 2026</time>
+        </li>
+        <li>
+          <p>Our new preprint <a href="https://arxiv.org/abs/2606.00965">Design-Based Edge-Level Causal Inference with Machine Learning Assisted Covariate Adjustment</a> is available on arXiv.</p>
+          <time datetime="2026-06">Jun 2026</time>
+        </li>
+      </ul>
+    </div>
+  </section>
 
   <section class="indexed-section" aria-labelledby="education-title">
     <header class="indexed-section__heading">
@@ -159,9 +168,9 @@ redirect_from:
     </header>
     <div class="indexed-section__content">
       <ul class="award-list">
-        <li><span>Outstanding Teaching Assistant of Tsinghua University</span><time>2025</time></li>
         <li><span>Outstanding Student Cadre of Tsinghua University</span><time>2019, 2025, 2026</time></li>
         <li><span>Merit Student of Tsinghua University</span><time>2026</time></li>
+        <li><span>Outstanding Teaching Assistant of Tsinghua University</span><time>2025</time></li>
         <li><span>Paper Award, National Academic Forum for Doctoral Students in Statistics</span><time>2025</time></li>
         <li><span>Comprehensive Scholarship of Tsinghua University</span><time>2019, 2020, 2021, 2023, 2025</time></li>
         <li><span>12·9 Counselor Scholarship of Tsinghua University</span><time>2025</time></li>

@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Haoyang Yu"
+title                    : "Haoyang Yu · 于浩洋"
 title_separator          : "-"
-name                     : "Haoyang Yu"
+name                     : "Haoyang Yu · 于浩洋"
 description              : "Ph.D. candidate in Statistics at Tsinghua University, working on causal inference and experimental design."
 url                      : https://yu-hao-yang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

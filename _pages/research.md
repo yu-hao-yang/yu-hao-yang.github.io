@@ -34,6 +34,17 @@ redirect_from:
           <a href="https://github.com/yu-hao-yang/CausalBootstrap">Package</a>
         </div>
       </article>
+      <article class="work-entry">
+        <div class="work-entry__meta">
+          <span>02</span>
+          <span>Advances in Mathematics (China) · Forthcoming</span>
+        </div>
+        <h3><a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a></h3>
+        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu. <em>Advances in Mathematics (China)</em>, forthcoming.</p>
+        <div class="work-links">
+          <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
+        </div>
+      </article>
     </div>
   </section>
 
@@ -44,7 +55,7 @@ redirect_from:
     <div class="work-list">
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>02</span>
+          <span>03</span>
           <span>Submitted</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2501.14602">Minimax Optimal Design with Spillover and Carryover Effects</a></h3>
@@ -57,7 +68,7 @@ redirect_from:
       </article>
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>03</span>
+          <span>04</span>
           <span>Submitted</span>
         </div>
         <h3><a href="https://arxiv.org/abs/2606.00965">Design-Based Edge-Level Causal Inference with Machine Learning Assisted Covariate Adjustment</a></h3>
@@ -68,13 +79,13 @@ redirect_from:
       </article>
       <article class="work-entry">
         <div class="work-entry__meta">
-          <span>04</span>
-          <span>Submitted · Chinese</span>
+          <span>05</span>
+          <span>Submitted</span>
         </div>
-        <h3><a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a></h3>
-        <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu. arXiv: 2511.22518.</p>
+        <h3><a href="https://arxiv.org/abs/2609.23284">Unbiased Treatment Effect Estimation under Network Interference via Neighborhood-Excluded Cross-Fitting</a></h3>
+        <p><strong>Haoyang Yu</strong>, Anqi Zhao, and Hanzhong Liu. arXiv: 2609.23284.</p>
         <div class="work-links">
-          <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
+          <a href="https://arxiv.org/abs/2609.23284">arXiv</a>
         </div>
       </article>
     </div>

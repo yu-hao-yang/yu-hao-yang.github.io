@@ -18,6 +18,7 @@ redirect_from:
           <p>I am a fifth-year Ph.D. candidate in the Department of Statistics and Data Science at Tsinghua University, very fortunate to be advised by <a href="https://www.stat.tsinghua.edu.cn/en/info/1023/1050.htm">Prof. Hanzhong Liu</a>.</p>
           <p>I obtained my B.S. degree in Mathematics and Physics (with a minor in Statistics) from Tsinghua University. My research interests include design-based causal inference and experimental design.</p>
         </div>
+        <p class="profile-hero__status">I am on the 2026–2027 job market.</p>
         <div class="profile-links" aria-label="Academic profiles and contact">
           <a href="mailto:yhy22@mails.tsinghua.edu.cn">Email</a>
           <a href="https://scholar.google.com.hk/citations?user=2ZOZnr8AAAAJ&amp;hl=zh-CN">Google Scholar</a>

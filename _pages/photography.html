@@ -18,14 +18,21 @@ excerpt: "Photography is one of my everyday interests. Landscape photographs fro
 
   {% assign sorted_photos = site.data.photography | sort: "sort_date" | reverse %}
   {% assign photo_categories = sorted_photos | map: "category" | uniq %}
+  <div class="photo-controls">
   {% if photo_categories.size > 1 %}
     <nav class="photo-filters" aria-label="Filter photographs">
-      <button class="photo-filter is-active" type="button" data-filter="all">All</button>
+      <button class="photo-filter is-active" type="button" data-filter="all" aria-pressed="true">All</button>
       {% for category in photo_categories %}
-        <button class="photo-filter" type="button" data-filter="{{ category | slugify }}">{{ category }}</button>
+        <button class="photo-filter" type="button" data-filter="{{ category | slugify }}" aria-pressed="false">{{ category }}</button>
       {% endfor %}
     </nav>
   {% endif %}
+    <div class="photo-style-switch" role="group" aria-label="Image style" hidden>
+      <button type="button" class="is-active" data-photo-style="original" aria-pressed="true">Original</button>
+      <button type="button" data-photo-style="postcard" aria-pressed="false">Postcard</button>
+    </div>
+  </div>
+  <p class="photo-style-status" role="status" aria-live="polite"></p>
 
   <section class="photo-grid" aria-label="Photography collection">
     {% for photo in sorted_photos %}
@@ -37,15 +44,19 @@ excerpt: "Photography is one of my everyday interests. Landscape photographs fro
       <figure class="photo-card photo-card--{{ photo_orientation }}" data-category="{{ photo.category | slugify }}">
         <button class="photo-open" type="button"
           data-image="{{ base_path }}{{ photo.image }}"
+          data-postcard="{{ base_path }}{{ photo.postcard }}"
+          data-original-width="{{ photo.width }}"
+          data-original-height="{{ photo.height }}"
+          data-original-alt="{{ photo.alt | escape }}"
+          data-postcard-alt="{{ photo.postcard_phrase | escape }} — postcard from {{ photo.location | escape }}"
           data-title="{{ photo.location | escape }}"
           data-meta="{{ photo.date | escape }}"
           aria-label="View photograph from {{ photo.location | escape }}, {{ photo.date | escape }} full screen">
-          <span class="photo-image-wrap" style="aspect-ratio: {{ photo.width }} / {{ photo.height }}">
+          <span class="photo-image-wrap" style="--photo-ratio: {{ photo.width }} / {{ photo.height }}">
             <img src="{{ base_path }}{{ photo.image }}"
               alt="{{ photo.alt | escape }}"
               width="{{ photo.width }}"
               height="{{ photo.height }}"
-              style="object-position: {{ photo.position | default: 'center' }}"
               loading="{% if forloop.first %}eager{% else %}lazy{% endif %}">
           </span>
         </button>
@@ -61,6 +72,10 @@ excerpt: "Photography is one of my everyday interests. Landscape photographs fro
 
 <dialog class="photo-lightbox" aria-label="Photograph viewer">
   <button class="photo-lightbox__close" type="button" aria-label="Close photograph viewer">×</button>
+  <div class="photo-style-switch photo-style-switch--lightbox" role="group" aria-label="Image style">
+    <button type="button" class="is-active" data-photo-style="original" aria-pressed="true">Original</button>
+    <button type="button" data-photo-style="postcard" aria-pressed="false">Postcard</button>
+  </div>
   <div class="photo-lightbox__stage">
     <img src="" alt="">
   </div>

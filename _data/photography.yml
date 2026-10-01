@@ -1,7 +1,9 @@
-# Site-ready image files live in images/photography and are tracked by Git.
+# Site-ready image files live in images/photography/originals and are tracked by Git.
 # To add a photograph, place its JPG there and add one metadata block below.
 # The page sorts entries by sort_date, so this file does not need manual reordering.
-- image: /images/photography/Barcelona_202608_1.jpg
+- image: /images/photography/originals/Barcelona_202608_1.jpg
+  postcard: /images/photography/postcards/Barcelona_202608_1_postcard.png
+  postcard_phrase: "A city reaching skyward"
   width: 1597
   height: 2400
   location: "Barcelona, Spain"
@@ -10,7 +12,9 @@
   category: "Spain"
   alt: "Photograph made in Barcelona, Spain, August 2026"
 
-- image: /images/photography/Barcelona_202608_2.jpg
+- image: /images/photography/originals/Barcelona_202608_2.jpg
+  postcard: /images/photography/postcards/Barcelona_202608_2_postcard.png
+  postcard_phrase: "Beyond the leaves"
   width: 1600
   height: 2400
   location: "Barcelona, Spain"
@@ -19,7 +23,9 @@
   category: "Spain"
   alt: "Photograph made in Barcelona, Spain, August 2026"
 
-- image: /images/photography/Barcelona_202608_3.jpg
+- image: /images/photography/originals/Barcelona_202608_3.jpg
+  postcard: /images/photography/postcards/Barcelona_202608_3_postcard.png
+  postcard_phrase: "Where light finds its way"
   width: 1600
   height: 2400
   location: "Barcelona, Spain"
@@ -28,7 +34,9 @@
   category: "Spain"
   alt: "Photograph made in Barcelona, Spain, August 2026"
 
-- image: /images/photography/Guiyang_202607_1.jpg
+- image: /images/photography/originals/Guiyang_202607_1.jpg
+  postcard: /images/photography/postcards/Guiyang_202607_1_postcard.png
+  postcard_phrase: "A pause in the green"
   width: 2400
   height: 1600
   location: "Guiyang, China"
@@ -37,7 +45,9 @@
   category: "China"
   alt: "Photograph made in Guiyang, China, July 2026"
 
-- image: /images/photography/Jeju_202607_1.jpg
+- image: /images/photography/originals/Jeju_202607_1.jpg
+  postcard: /images/photography/postcards/Jeju_202607_1_postcard.png
+  postcard_phrase: "Two quiet companions"
   width: 2400
   height: 1600
   location: "Jeju, South Korea"
@@ -46,7 +56,9 @@
   category: "South Korea"
   alt: "Photograph made in Jeju, South Korea, July 2026"
 
-- image: /images/photography/Jeju_202607_2.jpg
+- image: /images/photography/originals/Jeju_202607_2.jpg
+  postcard: /images/photography/postcards/Jeju_202607_2_postcard.png
+  postcard_phrase: "Where the shore slows"
   width: 2400
   height: 1600
   location: "Jeju, South Korea"
@@ -55,7 +67,9 @@
   category: "South Korea"
   alt: "Photograph made in Jeju, South Korea, July 2026"
 
-- image: /images/photography/Lisbon_202607_1.jpg
+- image: /images/photography/originals/Lisbon_202607_1.jpg
+  postcard: /images/photography/postcards/Lisbon_202607_1_postcard.png
+  postcard_phrase: "A little closer to the sun"
   width: 1600
   height: 2400
   location: "Lisbon, Portugal"
@@ -64,7 +78,9 @@
   category: "Portugal"
   alt: "Photograph made in Lisbon, Portugal, July 2026"
 
-- image: /images/photography/Madrid_202607_1.jpg
+- image: /images/photography/originals/Madrid_202607_1.jpg
+  postcard: /images/photography/postcards/Madrid_202607_1_postcard.png
+  postcard_phrase: "Beneath a quiet dome"
   width: 2400
   height: 1600
   location: "Madrid, Spain"
@@ -73,7 +89,9 @@
   category: "Spain"
   alt: "Photograph made in Madrid, Spain, July 2026"
 
-- image: /images/photography/Seville_202607_1.jpg
+- image: /images/photography/originals/Seville_202607_1.jpg
+  postcard: /images/photography/postcards/Seville_202607_1_postcard.png
+  postcard_phrase: "Light between the arches"
   width: 1600
   height: 2400
   location: "Seville, Spain"
@@ -82,7 +100,9 @@
   category: "Spain"
   alt: "Photograph made in Seville, Spain, July 2026"
 
-- image: /images/photography/Beijing_202601_1.jpg
+- image: /images/photography/originals/Beijing_202601_1.jpg
+  postcard: /images/photography/postcards/Beijing_202601_1_postcard.png
+  postcard_phrase: "Winter holds its breath"
   width: 2400
   height: 1600
   location: "Beijing, China"
@@ -91,16 +111,20 @@
   category: "China"
   alt: "Photograph made in Beijing, China, January 2026"
 
-- image: /images/photography/Hangzhou_202507_1.jpg
-  width: 2400
-  height: 1600
+- image: /images/photography/originals/Hangzhou_202507_1.jpg
+  postcard: /images/photography/postcards/Hangzhou_202507_1_postcard.png
+  postcard_phrase: "A moment of stillness"
+  width: 1600
+  height: 2400
   location: "Hangzhou, China"
   date: "July 2025"
   sort_date: "2025-07"
   category: "China"
   alt: "Photograph made in Hangzhou, China, July 2025"
 
-- image: /images/photography/Sanya_202412_1.jpg
+- image: /images/photography/originals/Sanya_202412_1.jpg
+  postcard: /images/photography/postcards/Sanya_202412_1_postcard.png
+  postcard_phrase: "The sea turns rose"
   width: 2400
   height: 1600
   location: "Sanya, China"
@@ -109,7 +133,9 @@
   category: "China"
   alt: "Photograph made in Sanya, China, December 2024"
 
-- image: /images/photography/Baoji_202407_1.jpg
+- image: /images/photography/originals/Baoji_202407_1.jpg
+  postcard: /images/photography/postcards/Baoji_202407_1_postcard.png
+  postcard_phrase: "Across the quiet sky"
   width: 2400
   height: 1600
   location: "Baoji, China"
@@ -118,7 +144,9 @@
   category: "China"
   alt: "Photograph made in Baoji, China, July 2024"
 
-- image: /images/photography/Xian_202407_1.jpg
+- image: /images/photography/originals/Xian_202407_1.jpg
+  postcard: /images/photography/postcards/Xian_202407_1_postcard.png
+  postcard_phrase: "Evening writes in light"
   width: 2400
   height: 1600
   location: "Xi'an, China"
@@ -127,7 +155,9 @@
   category: "China"
   alt: "Photograph made in Xi'an, China, July 2024"
 
-- image: /images/photography/Fukushima_202307.jpg
+- image: /images/photography/originals/Fukushima_202307.jpg
+  postcard: /images/photography/postcards/Fukushima_202307_postcard.png
+  postcard_phrase: "Running into summer"
   width: 2400
   height: 1799
   location: "Fukushima, Japan"
@@ -136,16 +166,20 @@
   category: "Japan"
   alt: "Photograph made in Fukushima, Japan, July 2023"
 
-- image: /images/photography/Kyoto_202307_1.jpg
-  width: 2400
-  height: 1600
+- image: /images/photography/originals/Kyoto_202307_1.jpg
+  postcard: /images/photography/postcards/Kyoto_202307_1_postcard.png
+  postcard_phrase: "Under the vermilion eaves"
+  width: 1600
+  height: 2400
   location: "Kyoto, Japan"
   date: "July 2023"
   sort_date: "2023-07"
   category: "Japan"
   alt: "Photograph made in Kyoto, Japan, July 2023"
 
-- image: /images/photography/Kamakura_202307_1.jpg
+- image: /images/photography/originals/Kamakura_202307_1.jpg
+  postcard: /images/photography/postcards/Kamakura_202307_1_postcard.png
+  postcard_phrase: "A moment to keep"
   width: 2400
   height: 1600
   location: "Kamakura, Japan"
@@ -154,7 +188,9 @@
   category: "Japan"
   alt: "Photograph made in Kamakura, Japan, July 2023"
 
-- image: /images/photography/Tokyo_202307_1.jpg
+- image: /images/photography/originals/Tokyo_202307_1.jpg
+  postcard: /images/photography/postcards/Tokyo_202307_1_postcard.png
+  postcard_phrase: "A small journey begins"
   width: 1599
   height: 2400
   location: "Tokyo, Japan"

@@ -1,0 +1,812 @@
+[
+  {
+    "source": "Baoji_202407_1.jpg",
+    "output": "Baoji_202407_1_postcard.png",
+    "phrase": "Across the quiet sky",
+    "footer": "BAOJI · 2024.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      323,
+      987,
+      440,
+      277
+    ],
+    "illustration_source_crop": [
+      100,
+      930,
+      986,
+      1275
+    ],
+    "illustration_ink_bbox": [
+      175,
+      0,
+      711,
+      337
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Barcelona_202608_1.jpg",
+    "output": "Barcelona_202608_1_postcard.png",
+    "phrase": "A city reaching skyward",
+    "footer": "BARCELONA · 2026.08",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1597,
+      2400
+    ],
+    "photo_rectangle": [
+      283,
+      0,
+      520,
+      781
+    ],
+    "illustration_rectangle": [
+      381,
+      980,
+      324,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      1000,
+      986,
+      1335
+    ],
+    "illustration_ink_bbox": [
+      264,
+      9,
+      617,
+      325
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Barcelona_202608_2.jpg",
+    "output": "Barcelona_202608_2_postcard.png",
+    "phrase": "Beyond the leaves",
+    "footer": "BARCELONA · 2026.08",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1600,
+      2400
+    ],
+    "photo_rectangle": [
+      282,
+      0,
+      521,
+      781
+    ],
+    "illustration_rectangle": [
+      323,
+      1003,
+      440,
+      244
+    ],
+    "illustration_source_crop": [
+      100,
+      1000,
+      986,
+      1335
+    ],
+    "illustration_ink_bbox": [
+      249,
+      8,
+      839,
+      335
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Barcelona_202608_3.jpg",
+    "output": "Barcelona_202608_3_postcard.png",
+    "phrase": "Where light finds its way",
+    "footer": "BARCELONA · 2026.08",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1600,
+      2400
+    ],
+    "photo_rectangle": [
+      282,
+      0,
+      521,
+      781
+    ],
+    "illustration_rectangle": [
+      323,
+      992,
+      440,
+      267
+    ],
+    "illustration_source_crop": [
+      100,
+      960,
+      986,
+      1335
+    ],
+    "illustration_ink_bbox": [
+      39,
+      1,
+      638,
+      365
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Beijing_202601_1.jpg",
+    "output": "Beijing_202601_1_postcard.png",
+    "phrase": "Winter holds its breath",
+    "footer": "BEIJING · 2026.01",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      323,
+      1003,
+      440,
+      244
+    ],
+    "illustration_source_crop": [
+      100,
+      940,
+      986,
+      1290
+    ],
+    "illustration_ink_bbox": [
+      145,
+      9,
+      749,
+      344
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Fukushima_202307.jpg",
+    "output": "Fukushima_202307_postcard.png",
+    "phrase": "Running into summer",
+    "footer": "FUKUSHIMA · 2023.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1799
+    ],
+    "photo_rectangle": [
+      22,
+      0,
+      1042,
+      781
+    ],
+    "illustration_rectangle": [
+      323,
+      1019,
+      440,
+      213
+    ],
+    "illustration_source_crop": [
+      100,
+      960,
+      986,
+      1310
+    ],
+    "illustration_ink_bbox": [
+      176,
+      16,
+      867,
+      350
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Guiyang_202607_1.jpg",
+    "output": "Guiyang_202607_1_postcard.png",
+    "phrase": "A pause in the green",
+    "footer": "GUIYANG · 2026.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      375,
+      980,
+      336,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      960,
+      986,
+      1300
+    ],
+    "illustration_ink_bbox": [
+      211,
+      7,
+      597,
+      340
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Hangzhou_202507_1.jpg",
+    "output": "Hangzhou_202507_1_postcard.png",
+    "phrase": "A moment of stillness",
+    "footer": "HANGZHOU · 2025.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1600,
+      2400
+    ],
+    "photo_rectangle": [
+      282,
+      0,
+      521,
+      781
+    ],
+    "illustration_rectangle": [
+      323,
+      1029,
+      440,
+      193
+    ],
+    "illustration_source_crop": [
+      100,
+      970,
+      986,
+      1340
+    ],
+    "illustration_ink_bbox": [
+      28,
+      1,
+      865,
+      368
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Jeju_202607_1.jpg",
+    "output": "Jeju_202607_1_postcard.png",
+    "phrase": "Two quiet companions",
+    "footer": "JEJU · 2026.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      323,
+      1022,
+      440,
+      207
+    ],
+    "illustration_source_crop": [
+      100,
+      990,
+      986,
+      1290
+    ],
+    "illustration_ink_bbox": [
+      38,
+      0,
+      671,
+      298
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Jeju_202607_2.jpg",
+    "output": "Jeju_202607_2_postcard.png",
+    "phrase": "Where the shore slows",
+    "footer": "JEJU · 2026.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      323,
+      1023,
+      440,
+      204
+    ],
+    "illustration_source_crop": [
+      100,
+      980,
+      986,
+      1300
+    ],
+    "illustration_ink_bbox": [
+      43,
+      0,
+      732,
+      319
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Kamakura_202307_1.jpg",
+    "output": "Kamakura_202307_1_postcard.png",
+    "phrase": "A moment to keep",
+    "footer": "KAMAKURA · 2023.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      403,
+      980,
+      280,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      920,
+      986,
+      1300
+    ],
+    "illustration_ink_bbox": [
+      224,
+      0,
+      591,
+      380
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Kyoto_202307_1.jpg",
+    "output": "Kyoto_202307_1_postcard.png",
+    "phrase": "Under the vermilion eaves",
+    "footer": "KYOTO · 2023.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1600,
+      2400
+    ],
+    "photo_rectangle": [
+      282,
+      0,
+      521,
+      781
+    ],
+    "illustration_rectangle": [
+      356,
+      980,
+      374,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      990,
+      986,
+      1340
+    ],
+    "illustration_ink_bbox": [
+      222,
+      4,
+      668,
+      350
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Lisbon_202607_1.jpg",
+    "output": "Lisbon_202607_1_postcard.png",
+    "phrase": "A little closer to the sun",
+    "footer": "LISBON · 2026.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1600,
+      2400
+    ],
+    "photo_rectangle": [
+      282,
+      0,
+      521,
+      781
+    ],
+    "illustration_rectangle": [
+      323,
+      1009,
+      440,
+      233
+    ],
+    "illustration_source_crop": [
+      100,
+      995,
+      986,
+      1340
+    ],
+    "illustration_ink_bbox": [
+      0,
+      0,
+      651,
+      345
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Madrid_202607_1.jpg",
+    "output": "Madrid_202607_1_postcard.png",
+    "phrase": "Beneath a quiet dome",
+    "footer": "MADRID · 2026.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      323,
+      1028,
+      440,
+      195
+    ],
+    "illustration_source_crop": [
+      100,
+      900,
+      986,
+      1290
+    ],
+    "illustration_ink_bbox": [
+      0,
+      9,
+      861,
+      390
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Sanya_202412_1.jpg",
+    "output": "Sanya_202412_1_postcard.png",
+    "phrase": "The sea turns rose",
+    "footer": "SANYA · 2024.12",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      323,
+      1030,
+      440,
+      190
+    ],
+    "illustration_source_crop": [
+      100,
+      980,
+      986,
+      1300
+    ],
+    "illustration_ink_bbox": [
+      147,
+      13,
+      761,
+      278
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Seville_202607_1.jpg",
+    "output": "Seville_202607_1_postcard.png",
+    "phrase": "Light between the arches",
+    "footer": "SEVILLE · 2026.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1600,
+      2400
+    ],
+    "photo_rectangle": [
+      282,
+      0,
+      521,
+      781
+    ],
+    "illustration_rectangle": [
+      406,
+      980,
+      274,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      985,
+      986,
+      1340
+    ],
+    "illustration_ink_bbox": [
+      272,
+      0,
+      608,
+      355
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Tokyo_202307_1.jpg",
+    "output": "Tokyo_202307_1_postcard.png",
+    "phrase": "A small journey begins",
+    "footer": "TOKYO · 2023.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      1599,
+      2400
+    ],
+    "photo_rectangle": [
+      283,
+      0,
+      520,
+      781
+    ],
+    "illustration_rectangle": [
+      362,
+      980,
+      362,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      1020,
+      986,
+      1340
+    ],
+    "illustration_ink_bbox": [
+      249,
+      11,
+      620,
+      308
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  },
+  {
+    "source": "Xian_202407_1.jpg",
+    "output": "Xian_202407_1_postcard.png",
+    "phrase": "Evening writes in light",
+    "footer": "XI'AN · 2024.07",
+    "canvas": [
+      1086,
+      1448
+    ],
+    "original_size": [
+      2400,
+      1600
+    ],
+    "photo_rectangle": [
+      0,
+      57,
+      1086,
+      724
+    ],
+    "illustration_rectangle": [
+      378,
+      980,
+      330,
+      290
+    ],
+    "illustration_source_crop": [
+      100,
+      950,
+      986,
+      1290
+    ],
+    "illustration_ink_bbox": [
+      257,
+      3,
+      604,
+      308
+    ],
+    "title_font": "Apple Chancery",
+    "title_size": 52,
+    "title_baseline": 890,
+    "footer_font": "American Typewriter",
+    "footer_size": 22,
+    "footer_baseline": 1392,
+    "footer_center": 543.0
+  }
+]

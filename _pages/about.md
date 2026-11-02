@@ -100,6 +100,7 @@ redirect_from:
             <p><strong>Haoyang Yu</strong>, Ke Zhu, and Hanzhong Liu. <em>Statistics in Medicine</em>, 44: e70139.</p>
             <div class="work-links">
               <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139">Paper</a>
+              <a href="https://github.com/yu-hao-yang/CausalBootstrap">Package</a>
             </div>
           </article>
           <article class="work-entry">

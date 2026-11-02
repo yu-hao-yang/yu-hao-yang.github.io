@@ -47,7 +47,7 @@ redirect_from:
           <time datetime="2026-09">Sep 2026</time>
         </li>
         <li>
-          <p>Our review <a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a> is accepted by <em>Advances in Mathematics (China)</em>.</p>
+          <p>Our review <a href="https://ccj.pku.edu.cn/article/info?aid=883684901032005">Design-Based Theory for Causal Inference (in Chinese)</a> is accepted by <em>Advances in Mathematics (China)</em>.</p>
           <time datetime="2026-09">Sep 2026</time>
         </li>
         <li>
@@ -96,12 +96,10 @@ redirect_from:
               <span>01</span>
               <span>Statistics in Medicine · 2025</span>
             </div>
-            <h4><a href="https://onlinelibrary.wiley.com/doi/10.1002/sim.70139">Sharp Variance Estimator and Causal Bootstrap in Stratified Randomized Experiments</a></h4>
+            <h4><a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139">Sharp Variance Estimator and Causal Bootstrap in Stratified Randomized Experiments</a></h4>
             <p><strong>Haoyang Yu</strong>, Ke Zhu, and Hanzhong Liu. <em>Statistics in Medicine</em>, 44: e70139.</p>
             <div class="work-links">
-              <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139?domain=author&amp;token=BUFGBT3URH3BSCBGWQAE">PDF</a>
-              <a href="https://arxiv.org/abs/2401.16667">arXiv</a>
-              <a href="https://github.com/yu-hao-yang/CausalBootstrap">Package</a>
+              <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/sim.70139">Paper</a>
             </div>
           </article>
           <article class="work-entry">
@@ -109,10 +107,10 @@ redirect_from:
               <span>02</span>
               <span>Advances in Mathematics (China) · 2026</span>
             </div>
-            <h4><a href="https://arxiv.org/abs/2511.22518">Design-Based Theory for Causal Inference (in Chinese)</a></h4>
+            <h4><a href="https://ccj.pku.edu.cn/article/info?aid=883684901032005">Design-Based Theory for Causal Inference (in Chinese)</a></h4>
             <p>Xin Lu, Wanjia Fu, Hongzi Li, <strong>Haoyang Yu</strong>, Honghao Zhang, Ke Zhu, and Hanzhong Liu. <em>Advances in Mathematics (China)</em>, in press.</p>
             <div class="work-links">
-              <a href="https://arxiv.org/abs/2511.22518">arXiv</a>
+              <a href="https://ccj.pku.edu.cn/article/info?aid=883684901032005">Paper</a>
             </div>
           </article>
         </div>

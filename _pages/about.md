@@ -43,11 +43,11 @@ redirect_from:
     <div class="indexed-section__content">
       <ul class="news-list">
         <li>
-          <p>Our new preprint <a href="https://arxiv.org/abs/2609.23284">Unbiased Treatment Effect Estimation under Network Interference via Neighborhood-Excluded Cross-Fitting</a> is available on arXiv.</p>
-          <time datetime="2026-09">Sep 2026</time>
+          <p>Our new preprint <a href="https://arxiv.org/abs/2611.34057">Design-Based Causal Inference for ROC Curves</a> is available on arXiv.</p>
+          <time datetime="2026-11">Nov 2026</time>
         </li>
         <li>
-          <p>Our review <a href="https://ccj.pku.edu.cn/article/info?aid=883684901032005">Design-Based Theory for Causal Inference (in Chinese)</a> is accepted by <em>Advances in Mathematics (China)</em>.</p>
+          <p>Our new preprint <a href="https://arxiv.org/abs/2609.23284">Unbiased Treatment Effect Estimation under Network Interference via Neighborhood-Excluded Cross-Fitting</a> is available on arXiv.</p>
           <time datetime="2026-09">Sep 2026</time>
         </li>
         <li>
@@ -157,6 +157,17 @@ redirect_from:
               <a href="https://arxiv.org/abs/2609.23284">arXiv</a>
             </div>
           </article>
+          <article class="work-entry">
+            <div class="work-entry__meta">
+              <span>06</span>
+              <span>Preprint</span>
+            </div>
+            <h4><a href="https://arxiv.org/abs/2611.34057">Design-Based Causal Inference for ROC Curves</a></h4>
+            <p>Bufan Li and <strong>Haoyang Yu</strong> (α–β). arXiv: 2611.34057.</p>
+            <div class="work-links">
+              <a href="https://arxiv.org/abs/2611.34057">arXiv</a>
+            </div>
+          </article>
         </div>
       </section>
     </div>
@@ -172,7 +183,7 @@ redirect_from:
         <li><span>Merit Student of Tsinghua University</span><time>2026</time></li>
         <li><span>Outstanding Teaching Assistant of Tsinghua University</span><time>2025</time></li>
         <li><span>Paper Award, National Academic Forum for Doctoral Students in Statistics</span><time>2025</time></li>
-        <li><span>Comprehensive Scholarship of Tsinghua University</span><time>2019, 2020, 2021, 2023, 2025</time></li>
+        <li><span>Comprehensive Scholarship of Tsinghua University</span><time>2019, 2020, 2021, 2023, 2025, 2026</time></li>
         <li><span>12·9 Counselor Scholarship of Tsinghua University</span><time>2025</time></li>
         <li><span>Paper Award, Academic Symposium of the Beijing Biometrics Association</span><time>2025</time></li>
         <li><span>Outstanding Graduate of Tsinghua University</span><time>2022</time></li>

@@ -87,6 +87,17 @@ redirect_from:
           <a href="https://arxiv.org/abs/2609.23284">arXiv</a>
         </div>
       </article>
+      <article class="work-entry">
+        <div class="work-entry__meta">
+          <span>06</span>
+          <span>Preprint</span>
+        </div>
+        <h3><a href="https://arxiv.org/abs/2611.34057">Design-Based Causal Inference for ROC Curves</a></h3>
+        <p>Bufan Li and <strong>Haoyang Yu</strong> (α–β). arXiv: 2611.34057.</p>
+        <div class="work-links">
+          <a href="https://arxiv.org/abs/2611.34057">arXiv</a>
+        </div>
+      </article>
     </div>
   </section>
 </main>
